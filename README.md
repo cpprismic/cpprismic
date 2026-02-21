@@ -39,10 +39,6 @@
 - Тестирование и отладка: gtest/gmock, GDB, Valgrind, Sanitizers
 - Подходы: ООП, SOLID, RAII, Templates, constexpr-if, multithreading, move-семантика, perfect forwarding, exception handling
 
-## 📫 Контакты
-- email: litvinovkirand@mail.ru
-- telegram: @litvinov59
-
 <!--
 **litvinov99/litvinov99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
