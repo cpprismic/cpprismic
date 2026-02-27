@@ -15,7 +15,7 @@
 
 ## Проекты
 - [Document Signing Service](https://github.com/litvinov99/document-signing-service) - сервис автоматизации подписания документов простой электронной подписью, включая генерацию PDF-соглашений с динамическими шаблонами, SMS-аутентификацию, вычисления хэша методанных подписания и наложение цифрового штампа на документ
-- [Cve-monitor](https://github.com/litvinov99/cve-parser) - асинхронный сервис мониторинга и парсинга новых уязвимостей из ExploitDB, FSTEK, NUCLEI, CVE, спроектированный на userver framework
+- [Cve-monitor](https://github.com/litvinov99/cve-parser) - асинхронный сервис мониторинга и парсинга новых уязвимостей из разных источников, спроектированный на userver framework
 - [Multithreaded logger](https://github.com/litvinov99/multithreaded-logger) - многопоточный асинхронный логгер
 - [Html to pdf converter](https://github.com/litvinov99/html-to-pdf-converter) - многопоточный асинхронный конвертер HTML в PDF
 - [Load Tester](https://github.com/litvinov99/load_tester) - утилита нагрузочного тестирования HTTP API микросервисов
