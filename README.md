@@ -14,9 +14,9 @@
 В фокусе интересов — системное программирование, алгоритмы и производительность. Стремлюсь к позиции, где можно расти в команде, писать качественный код и работать с реальными инженерными задачами.
 
 ## Проекты
+- [Async-sink](https://github.com/cpprismic/async-sink) - логгер с производительностью 5+ млн сообщений/сек и неблокирующей записью, header-only библиотека с zero-allocation архитектурой и гибкой системой sink'ов
 - [Document Signing Service](https://github.com/litvinov99/document-signing-service) - сервис автоматизации подписания документов простой электронной подписью, включая генерацию PDF-соглашений с динамическими шаблонами, SMS-аутентификацию, вычисления хэша методанных подписания и наложение цифрового штампа на документ
 - [Cve-monitor](https://github.com/litvinov99/cve-parser) - асинхронный сервис мониторинга и парсинга новых уязвимостей из разных источников, спроектированный на userver framework
-- [Multithreaded logger](https://github.com/litvinov99/multithreaded-logger) - многопоточный асинхронный логгер
 - [Html to pdf converter](https://github.com/litvinov99/html-to-pdf-converter) - многопоточный асинхронный конвертер HTML в PDF
 - [Load Tester](https://github.com/litvinov99/load_tester) - утилита нагрузочного тестирования HTTP API микросервисов
 - [Test runner](https://github.com/litvinov99/mini-projects/tree/main/test%20runner) - мини-фреймворк для юнит-тестирования
