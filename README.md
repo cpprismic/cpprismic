@@ -1,22 +1,22 @@
 # Привет, меня зовут Кирилл 👋
-С++ разработчик с опытом сквозной разработки сервисов — от архитектуры и реализации до развёртывания. Успешно применяю Python для прототипирования и автоматизации. Участвую в код-ревью, стремлюсь к созданию чистого и эффективного кода, следую принципам SOLID, DRY, KISS. Проактивно решаю задачи, нацелен на оптимизацию производительности и построение надежных систем.
+### C++ разработчик · Системное программирование · Backend
+
+C++ разработчик с опытом сквозной разработки сервисов — от архитектуры и реализации до развёртывания. Применяю Python для прототипирования и автоматизации. Участвую в код-ревью, стремлюсь к созданию чистого и эффективного кода, следую принципам SOLID, DRY, KISS. Нацелен на оптимизацию производительности и построение надёжных систем.
 
 ## О себе
-Разбираюсь в управлении памятью: применяю умные указатели, принцип RAII, использую инструменты диагностики утечек и ошибок памяти — Valgrind, AddressSanitizer.
 
-Интересуюсь промышленной разработкой и углубляюсь в архитектуру программ, тестирование и оптимизацию.
+**Что умею:**
+- Управление памятью: умные указатели, RAII, диагностика утечек (Valgrind, AddressSanitizer)
+- Многопоточность: синхронизация, lock-free структуры данных, work-stealing паттерны
+- Проектирование: декомпозиция сервисов, выбор структур данных под задачу, профилирование узких мест
+- Инфраструктура: контейнеризация (Docker), CI/CD, написание и поддержка сборочных систем на CMake
 
-Стремлюсь развиваться как разработчик:
-- изучаю современные практики разработки на C++17/20;
-- читаю профессиональную литературу и смотрю лекции по системному программированию, алгоритмам и архитектуре;
-- практикуюсь в решении задач на LeetCode и в разработке пет-проектов;
-
-В фокусе интересов — системное программирование, алгоритмы и производительность. Стремлюсь к позиции, где можно расти в команде, писать качественный код и работать с реальными инженерными задачами.
+Интересуюсь промышленной разработкой, углубляюсь в архитектуру, тестирование и оптимизацию. В фокусе интересов — системное программирование, алгоритмы и производительность. Стремлюсь к позиции, где можно расти в команде, писать качественный код и решать реальные инженерные задачи.
 
 ## Проекты
+- [Document Signing Service](https://github.com/litvinov99/document-signing-service) - сервис автоматизации подписания документов: генерация PDF-соглашений с динамическими шаблонами, SMS-аутентификация, хэш метаданных подписания, наложение цифрового штампа
+- [Cve-monitor](https://github.com/litvinov99/cve-parser) - асинхронный сервис мониторинга и парсинга новых уязвимостей из разных источников, спроектированный на [userver](https://userver.tech/) framework
 - [Async-sink](https://github.com/cpprismic/async-sink) - логгер с производительностью 5+ млн сообщений/сек и неблокирующей записью, header-only библиотека с zero-allocation архитектурой и гибкой системой sink'ов
-- [Document Signing Service](https://github.com/litvinov99/document-signing-service) - сервис автоматизации подписания документов простой электронной подписью, включая генерацию PDF-соглашений с динамическими шаблонами, SMS-аутентификацию, вычисления хэша методанных подписания и наложение цифрового штампа на документ
-- [Cve-monitor](https://github.com/litvinov99/cve-parser) - асинхронный сервис мониторинга и парсинга новых уязвимостей из разных источников, спроектированный на userver framework
 - [Html to pdf converter](https://github.com/litvinov99/html-to-pdf-converter) - многопоточный асинхронный конвертер HTML в PDF
 - [Load Tester](https://github.com/litvinov99/load_tester) - утилита нагрузочного тестирования HTTP API микросервисов
 - [Test runner](https://github.com/litvinov99/mini-projects/tree/main/test%20runner) - мини-фреймворк для юнит-тестирования
@@ -32,24 +32,22 @@
 - [остальные проекты с описанием](https://github.com/litvinov99/mini-projects)
 
 ## Технологии и инструменты
-- Язык: C++17/20 (STL, RAII, Multithreading, Templates, Move semantics), Python 3 (prototyping, scripts)
-- Библиотеки и фреймворки: Standard Library + STL, Boost, Google Test
-- Сборка и компиляторы: CMake, g++, clang, MSVC
-- Инструменты и инфраструктура: Git (GitHub/GitLab), CI/CD (GitHub Actions/GitLab CI), Docker
-- Тестирование и отладка: gtest/gmock, GDB, Valgrind, Sanitizers
-- Подходы: ООП, SOLID, RAII, Templates, constexpr-if, multithreading, move-семантика, perfect forwarding, exception handling
 
-<!--
-**litvinov99/litvinov99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Язык:** C++17/20 (STL, RAII, Multithreading, Templates, Move semantics), Python 3
+- **Библиотеки и фреймворки:** Standard Library + STL, Boost, Google Test, userver
+- **Сборка и компиляторы:** CMake, g++, clang, MSVC
+- **Инфраструктура:** Git (GitHub/GitLab), CI/CD (GitHub Actions/GitLab CI), Docker
+- **Тестирование и отладка:** gtest/gmock, GDB, Valgrind, Sanitizers
+- **Подходы:** ООП, SOLID, RAII, Templates, constexpr-if, multithreading, move-семантика, perfect forwarding, exception handling
 
-Here are some ideas to get you started:
+![C++](https://img.shields.io/badge/C++-20-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat&logo=python&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpprismic&show_icons=true&locale=ru&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprismic&layout=compact&locale=ru&hide_border=true)
