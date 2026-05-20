@@ -46,8 +46,3 @@ C++ разработчик с опытом сквозной разработки
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-## Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpprismic&show_icons=true&locale=ru&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprismic&layout=compact&locale=ru&hide_border=true)
