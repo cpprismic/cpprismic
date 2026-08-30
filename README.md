@@ -1,17 +1,17 @@
 # Привет, меня зовут Кирилл 👋
 ### C++ разработчик · Системное программирование · Backend
 
-C++ разработчик с опытом сквозной разработки сервисов — от архитектуры и реализации до развёртывания. Применяю Python для прототипирования и автоматизации. Участвую в код-ревью, стремлюсь к созданию чистого и эффективного кода, следую принципам SOLID, DRY, KISS. Нацелен на оптимизацию производительности и построение надёжных систем.
-
+C++ разработчик с опытом сквозной разработки высоконагруженных сетевых сервисов — от архитектуры и реализации до развёртывания и поддержки в production. Специализируюсь на асинхронном сетевом взаимодействии (Boost.Asio, gRPC, WebSocket), отказоустойчивых интеграциях с внешними системами (connection pooling, health-check, circuit breaker) и многопоточной обработке данных. Участвую в код-ревью, следую принципам SOLID, DRY, KISS. Профессиональный интерес — низкоуровневая оптимизация производительности и построение надёжных распределённых систем.
 ## О себе
 
 **Что умею:**
+- Сетевое взаимодействие: асинхронный IO (Boost.Asio), gRPC/Protobuf, WebSocket, connection pooling, отказоустойчивые интеграции с внешними API
 - Управление памятью: умные указатели, RAII, диагностика утечек (Valgrind, AddressSanitizer)
 - Многопоточность: синхронизация, lock-free структуры данных, work-stealing паттерны
 - Проектирование: декомпозиция сервисов, выбор структур данных под задачу, профилирование узких мест
 - Инфраструктура: контейнеризация (Docker), CI/CD, написание и поддержка сборочных систем на CMake
 
-Интересуюсь промышленной разработкой, углубляюсь в архитектуру, тестирование и оптимизацию. В фокусе интересов — системное программирование, алгоритмы и производительность. Стремлюсь к позиции, где можно расти в команде, писать качественный код и решать реальные инженерные задачи.
+Интересуюсь промышленной разработкой, углубляюсь в архитектуру, тестирование и оптимизацию. В фокусе интересов — системное программирование, алгоритмы и производительность.
 
 ## Проекты
 - [Document Signing Service](https://github.com/litvinov99/document-signing-service) - сервис автоматизации подписания документов: генерация PDF-соглашений с динамическими шаблонами, SMS-аутентификация, хэш метаданных подписания, наложение цифрового штампа
@@ -34,10 +34,11 @@ C++ разработчик с опытом сквозной разработки
 ## Технологии и инструменты
 
 - **Язык:** C++17/20 (STL, RAII, Multithreading, Templates, Move semantics), Python 3
-- **Библиотеки и фреймворки:** Standard Library + STL, Boost, Google Test, userver
+- **Сети и протоколы:** TCP/IP, UDP, Boost.Asio, Boost.Beast, WebSocket, gRPC, Protobuf, TLS/mTLS (OpenSSL)
+- **Инфраструктура и очереди:** Redis (Boost.Redis), Kafka (librdkafka), PostgreSQL, SQLite, REST API, микросервисная архитектура, userver
 - **Сборка и компиляторы:** CMake, g++, clang, MSVC
 - **Инфраструктура:** Git (GitHub/GitLab), CI/CD (GitHub Actions/GitLab CI), Docker
-- **Тестирование и отладка:** gtest/gmock, GDB, Valgrind, Sanitizers
+- **Тестирование и отладка:** GoogleTest/gmock, GDB, Valgrind, Sanitizers, Perf
 - **Подходы:** ООП, SOLID, RAII, Templates, constexpr-if, multithreading, move-семантика, perfect forwarding, exception handling
 
 ![C++](https://img.shields.io/badge/C++-20-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -46,3 +47,6 @@ C++ разработчик с опытом сквозной разработки
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
