@@ -35,18 +35,18 @@ C++ разработчик с опытом сквозной разработки
 
 - **Язык:** C++17/20 (STL, RAII, Multithreading, Templates, Move semantics), Python 3
 - **Сети и протоколы:** TCP/IP, UDP, Boost.Asio, Boost.Beast, WebSocket, gRPC, Protobuf, TLS/mTLS (OpenSSL)
-- **Инфраструктура и очереди:** Redis (Boost.Redis), Kafka (librdkafka), PostgreSQL, SQLite, REST API, микросервисная архитектура, userver
+- **Инфраструктура и очереди:** Redis (Boost.Redis), Kafka (librdkafka), PostgreSQL, SQLite, REST API, микросервисная архитектура
 - **Сборка и компиляторы:** CMake, g++, clang, MSVC
 - **Инфраструктура:** Git (GitHub/GitLab), CI/CD (GitHub Actions/GitLab CI), Docker
 - **Тестирование и отладка:** GoogleTest/gmock, GDB, Valgrind, Sanitizers, Perf
 - **Подходы:** ООП, SOLID, RAII, Templates, constexpr-if, multithreading, move-семантика, perfect forwarding, exception handling
 
 ![C++](https://img.shields.io/badge/C++-20-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat&logo=python&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
