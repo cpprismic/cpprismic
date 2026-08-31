@@ -17,6 +17,7 @@ C++ разработчик с опытом сквозной разработки
 - [Slab-allocator](https://github.com/cpprismic/slab-allocator) - быстрый пул-аллокатор блоков фиксированного размера для C++, плюс SlabMemoryResource — std::pmr::memory_resource поверх него
 - [Document Signing Service](https://github.com/cpprismic/document-signing-service) - сервис автоматизации подписания документов: генерация PDF-соглашений с динамическими шаблонами, SMS-аутентификация, хэш метаданных подписания, наложение цифрового штампа
 - [Cve-monitor](https://github.com/cpprismic/cve-parser) - асинхронный сервис мониторинга и парсинга новых уязвимостей из разных источников, спроектированный на [userver](https://userver.tech/) framework
+- [Thermal filter](https://github.com/cpprismic/thermal-filter) - утилита для обработки снимков с тепловизора: пиксели, температура которых попадает в заданный диапазон, остаются цветными, все остальные — конвертируются в градации серого
 - [Async-sink](https://github.com/cpprismic/async-sink) - логгер с производительностью 5+ млн сообщений/сек и неблокирующей записью, header-only библиотека с zero-allocation архитектурой и гибкой системой sink'ов
 - [Html to pdf converter](https://github.com/cpprismic/html-to-pdf-converter) - многопоточный асинхронный конвертер HTML в PDF
 - [Load Tester](https://github.com/cpprismic/load_tester) - утилита нагрузочного тестирования HTTP API микросервисов
